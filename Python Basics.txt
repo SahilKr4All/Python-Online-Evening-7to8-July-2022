@@ -1,0 +1,45 @@
+What is Python?
+Python is a general purpose high level programming language
+General Purpose -
+Software Development
+Web Development
+Game Development
+Data Science -ML,AI
+
+High Level - Python is very easy to learn and use
+
+History
+-Guido Vann Rossum - 1998-1991 - because he was highly inspired by circus show
+"Monty's python flying circus".
+
+Python Installation
+1.Python.org
+
+
+
+
+Start?
+windows->IDLE(Interactive Development Learning Environment)
+
+Data Types
+1.Number -
+int(integer - 1,2-100,0)
+float - Decimal Number - 1.2,22.7
+Complex number - a+bj where a and b are numbers- 5+3j,1-2j\
+
+a+bj - a - real no , b - imaginary no
+
+Variables - which stores the value
+x = 5
+y = 19
+ayush = 12
+
+Rules:
+1.variable name cannot space or any special character other than _ - underscore
+2.variable name cannot be started with numerical value
+
+Operators:
+Arithmetical Operator - +,-,/,*,// - floor divison,% - modulus -remainder,**-power
+2**4 => 2*2*2*2
+
+Library - Module - Math
