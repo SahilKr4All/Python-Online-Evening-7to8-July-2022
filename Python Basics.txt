@@ -34,6 +34,9 @@ x = 5
 y = 19
 ayush = 12
 
+
+String-> word,alphabet,line,paragraph - 'ESS Institute' ,"Hello"
+
 Rules:
 1.variable name cannot space or any special character other than _ - underscore
 2.variable name cannot be started with numerical value
