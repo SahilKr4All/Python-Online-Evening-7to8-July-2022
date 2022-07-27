@@ -1,0 +1,10 @@
+Web Crawling - it is a technique to fetch website's html data using python
+
+modules /library
+urlib.request - send request,get the response
+bs4,lxml - data fetching
+
+
+bs4,lxml are needed to installe seperately ,for this goto cmd
+-pip install bs4
+-pip install lxml
